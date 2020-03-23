@@ -65,3 +65,21 @@ body {
     color: white;
     text-transform: uppercase;
 }
+.search {
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.search input {
+    width: 200px;
+    padding: 10px;
+    border: none;
+    background-color: #F9C237;
+
+}
+.search input[type=text] {
+    color: #395322;
+}
+.search i {
+    color: #395322;
+    font-size: 15px;
+}
