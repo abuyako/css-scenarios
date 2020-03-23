@@ -68,11 +68,15 @@ body {
 .search {
     margin-top: 50px;
     margin-left: 30px;
+    width: 260px;
+    background-color: #395322;
+    border-radius: 4px;
 }
 .search input {
     width: 200px;
     padding: 10px;
-    border: none;
+    margin-left: 0px;
+    border: solid 1px #395322;
     background-color: #F9C237;
 
 }
@@ -80,6 +84,6 @@ body {
     color: #395322;
 }
 .search i {
-    color: #395322;
-    font-size: 15px;
+    color: white;
+    font-size: 20px;
 }
