@@ -13,9 +13,9 @@ body {
 }
 .main-left .name {
     margin-left: 20px;
-    font-size: 10px;
+    font-size: 14px;
     color: #395322;
-    
+    font-family: 'Rochester', cursive;
 }
 .main-right {
     background-color: tomato;
