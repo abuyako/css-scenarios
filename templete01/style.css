@@ -28,6 +28,12 @@ body {
     font-family:Rock Salt;
     cursor: pointer;
 }
+.vl {
+    border-left: 2px solid  #395322;
+    height: 300px;
+    margin-left: 70px;
+    margin-top: 50px;
+  }
 .name {
     display: flex;
 }
