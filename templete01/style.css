@@ -26,12 +26,14 @@ body {
     font-size: 14px;
     color: #395322;
     font-family:Rock Salt;
+    cursor: pointer;
 }
 .name {
     display: flex;
 }
 .name-banner {
     flex: 3;
+    cursor: pointer;
 }
 .name-social {
     flex: 1;
@@ -39,6 +41,7 @@ body {
 }
 .name-social i {
     margin-left: 15px;
+    cursor: pointer;
 }
 .main-right {
     background-color: tomato;
