@@ -4,6 +4,7 @@ body {
 }
 .main {
     display: flex;
+    position: relative;
 }
 .main-left {
     background-color: #F9C237;
@@ -17,4 +18,12 @@ body {
     background-image: url("https://images.pexels.com/photos/1055691/pexels-photo-1055691.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
     background-size: cover;
     background-position: center;
+}
+.main-text {
+    position: absolute;
+    left: 32%;
+    top: 25%;
+    font-size: 50px;
+    color: white;
+    text-transform: uppercase;
 }
