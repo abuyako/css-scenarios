@@ -11,6 +11,11 @@ body {
     width: 100%;
     height: 100vh;
 }
+.main-left .name {
+    margin-left: 20px;
+    font-size: 10px;
+    color: #395322;
+}
 .main-right {
     background-color: tomato;
     width: 100%;
