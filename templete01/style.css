@@ -27,6 +27,19 @@ body {
     color: #395322;
     font-family:Rock Salt;
 }
+.name {
+    display: flex;
+}
+.name-banner {
+    flex: 3;
+}
+.name-social {
+    flex: 1;
+    margin-top: 25px;
+}
+.name-social i {
+    margin-left: 15px;
+}
 .main-right {
     background-color: tomato;
     width: 100%;
